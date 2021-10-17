@@ -18,7 +18,7 @@ const Main=()=>{
         <>
         <Navbar/>
         <Switch>
-            <Route component={Home}/>
+            
             <Route exact path="/about" component={About}/>
             <Route exact path="/education" component={Education}/>
             <Route exact path="/skill" component={Skills}/>
@@ -28,8 +28,7 @@ const Main=()=>{
             <Route exact path="/projects" component={Projects}/>
             <Route exact path="/interest" component={Interest}/>
             <Route exact path="/language" component={Language}/>
-            
-
+            <Route component={Home}/>
         </Switch>
         
        </>
