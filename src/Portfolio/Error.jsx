@@ -3,7 +3,7 @@ import { useHistory } from "react-router-dom";
 const Error = () => {
   let history = useHistory();
   const handleAboutPage = () => {
-    history.push("/");
+    history.push("/home");
   };
   return (
     <>

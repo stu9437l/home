@@ -63,7 +63,7 @@ const Navbar=()=>{
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mb-2 mx-auto mb-lg-0">
       <li className="nav-item">
-          <NavLink exact activeClassName=" active_link" to="/" style={links}><span><i className="fas fa-house-user"></i> Home</span></NavLink>
+          <NavLink exact activeClassName=" active_link" to="/home" style={links}><span><i className="fas fa-house-user"></i> Home</span></NavLink>
         </li>
         <li className="nav-item">
           <NavLink exact activeClassName=" active_link" to="/about" style={links}><i className="fas fa-user-graduate"></i> About</NavLink>
