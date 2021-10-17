@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fb22cb07.chunk.css",
+    "main.js": "/home/static/js/main.be3eda4c.chunk.js",
+    "main.js.map": "/home/static/js/main.be3eda4c.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.71a908af.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.71a908af.js.map",
+    "static/js/2.5ec939f2.chunk.js": "/home/static/js/2.5ec939f2.chunk.js",
+    "static/js/2.5ec939f2.chunk.js.map": "/home/static/js/2.5ec939f2.chunk.js.map",
+    "index.html": "/home/index.html",
+    "static/css/main.fb22cb07.chunk.css.map": "/home/static/css/main.fb22cb07.chunk.css.map",
+    "static/js/2.5ec939f2.chunk.js.LICENSE.txt": "/home/static/js/2.5ec939f2.chunk.js.LICENSE.txt",
+    "static/media/Carousel.9b9f9f3f.JPG": "/home/static/media/Carousel.9b9f9f3f.JPG",
+    "static/media/Carousel2.31f249ab.jpg": "/home/static/media/Carousel2.31f249ab.jpg",
+    "static/media/Carousel3.c22c68b3.JPG": "/home/static/media/Carousel3.c22c68b3.JPG",
+    "static/media/Carousel4.f91afe07.jpg": "/home/static/media/Carousel4.f91afe07.jpg",
+    "static/media/Main.css": "/home/static/media/interest.e543e112.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a908af.js",
+    "static/js/2.5ec939f2.chunk.js",
+    "static/css/main.fb22cb07.chunk.css",
+    "static/js/main.be3eda4c.chunk.js"
+  ]
+}
