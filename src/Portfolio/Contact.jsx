@@ -59,7 +59,7 @@ const Contact = () => {
                   <a href=""><i className="fab fa-twitter fa-2x"></i></a>            
                   </div>
                   <div className="social_icon col-sm-2 mx-2">
-                  <a href="https://wa.me/<9865818795>"> <i className="fab fa-whatsapp fa-2x"></i></a>
+                  <a href="https://wa.me/+9779865818795"> <i className="fab fa-whatsapp fa-2x"></i></a>
                   </div>
                   <div className="social_icon col-sm-2 mx-2">
                   <a href=""><i className="fab fa-instagram fa-2x" onClick={social_inconvinence}></i></a>                  
